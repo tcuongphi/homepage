@@ -1,1 +1,10 @@
 remote_theme: mmistakes/minimal-mistakes
+
+title: "Your Name"
+description: "Your Position at Institution"
+name: "Dr. Your Name"
+avatar: "/assets/images/avatar.jpg" # Add an image to /assets/images
+locale: "en-US"
+
+# Minimal Mistakes theme settings:
+minimal_mistakes_skin: "default"
